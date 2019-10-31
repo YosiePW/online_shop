@@ -1,0 +1,106 @@
+html {
+    background:#6fccdd;
+}
+body {
+  margin: 0;
+  font-family: 'Oswald';
+  overflow-x: hidden;
+  position: relative;
+}
+.navbar{
+	text-transform: uppercase;
+	background:#3e3e40;
+}
+.navbar-brand img{
+	height: 2.5rem;
+}
+
+.caption {
+	width: 100%;
+	z-index: 1;
+	padding-top: 15px;
+	padding-bottom: 37px;
+	background-color: #3e3e40;
+}
+.heading{
+	text-transform: uppercase;
+	text-align: center;
+}
+.caption h3{
+	color: white;
+	font-size: 2.7rem;
+	text-transform: uppercase;
+	padding-bottom: 1rem;
+	text-shadow: rgba(0,0,0,0.8);
+}
+.btn {
+	border-width: medium;
+	border-radius: 0;
+	width: 100px;
+}
+.copyright{
+	background:#3e3e40;
+	color: white;
+}
+.footer img{
+	width: 30%;
+}
+.card{
+	border-width: 0px;
+}
+.kartu{
+	margin-top: 30px;
+}
+.warna{
+	background-color: white !important;
+}
+.ungu{
+	background-color: #ffccff !important;
+}
+.pink{
+	background-color: #ffe6e6 !important;
+}
+.crem{
+	background-color: #ffe6cc !important;
+}
+.kuning{
+	color: #ffffb3 !important;
+}
+.abu{
+	color: #e6e6e6 !important;
+}
+.pink2{
+	color: #ffcccc !important;
+}
+.card-link{
+	color: black;
+}
+.location {
+  position: absolute;
+  background: white;
+  width: 100%;
+}
+.footer{
+	background-color: #5b5b5e !important;
+	padding: 20px;
+	margin-bottom: -10px;
+}
+.gambar img{
+	width: 100%;
+	margin-bottom: 20px;
+}
+/*.active{
+	background-color: #252526 !important;
+}*/
+/*parallax*/
+/*.sejarah{
+  background-image: url("../img/sejarah/1.png");
+
+  height: 200px;
+
+   Create the parallax scrolling effect 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}*/
